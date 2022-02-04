@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdaWat
 - 👀 I’m interested in Python, JavaScript, Maths, Space, Investing, Electronics...
-- 📫 How to reach me: on Twitter @AdamWatney
 - 🌐 Website: adamwatney.com
 
 <!---
