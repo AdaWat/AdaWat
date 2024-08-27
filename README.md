@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdaWat
 - 👀 I’m interested in Python, C++, Maths, Space, Investing, Electronics...
-- 🌐 Website: adamwatney.com
 
 <!---
 AdaWat/AdaWat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
